@@ -10,7 +10,7 @@ I chose to go with PISTOL as I am already familiar enough with the others, and V
 ---
 ## Article / Technical Breakdown:
 
-https://blog.pixelmelt.dev/analysing-pixeljsvm/
+https://blog.pixelmelt.dev/analysing-pistoljsvm/
 
 ---
 
