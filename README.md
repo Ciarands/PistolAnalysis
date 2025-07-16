@@ -8,6 +8,11 @@ I was asked by my friend [@PixelMelt](https://github.com/PixelMelt) to help out 
 I chose to go with PISTOL as I am already familiar enough with the others, and VM based obfuscation is much more interesting than transformation obfuscation.
 
 ---
+## Article / Technical Breakdown:
+
+https://blog.pixelmelt.dev/analyzing-pixeljsvm/
+
+---
 
 ## Preface:
 
@@ -24,3 +29,5 @@ You will have until June 28th to submit the results.
 
 ## Thanks
 Big thank you to [@PixelMelt](https://github.com/PixelMelt) for providing the opportunity to take part and the fun challenge! :>
+
+<img width="749" height="936" alt="image" src="https://github.com/user-attachments/assets/4f49b2fe-1dbe-44fa-8c0d-588cb1ead76c" />
